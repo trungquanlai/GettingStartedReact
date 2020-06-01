@@ -1,2 +1,3 @@
 
-game-numbers/node_modules
+game-numbers/node_modules/*
+node_modules
